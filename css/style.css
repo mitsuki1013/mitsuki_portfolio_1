@@ -254,7 +254,7 @@ header-top
 .header-top::before {
   content: "";
   display: block;
-  background-image: url(/img/header.png);
+  background-image: url(https://mitsuki1013.github.io/mitsuki_portfolio_1/img/header.png);
   background-position: left top;
   background-size: cover;
   width: 100%;
@@ -1130,7 +1130,7 @@ contact
   box-shadow: 0 0 20px rgba(22, 22, 22, 0.3);
   background-size: cover;
   background-position: center center;
-  background-image: url(/img/header.png);
+  background-image: url(https://mitsuki1013.github.io/mitsuki_portfolio_1/img/header.png);
 }
 
 @media screen and (min-width: 576px) {
